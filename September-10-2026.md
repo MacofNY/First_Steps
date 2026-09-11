@@ -54,4 +54,12 @@ display flickering).
   that was too powerful, and need to remember that these are not iPhones and popular
   devices, these are real learning tools and I need to pay attention to voltage and things
   that can actually damage the technology 
-- Haven't yet run the planned `nmap -sn` scan of the home network from Kali 
+- Haven't yet run the planned `nmap -sn` scan of the home network from Kali
+
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 # Homelab Setup — Night 2
-
+ 
 ## Where I'm At
 I started the COMPTIA textbook that I have and studied for about an hour before work and 
 right after my Kali Virtual Machine is done updating I will try to get in another 30min to 
